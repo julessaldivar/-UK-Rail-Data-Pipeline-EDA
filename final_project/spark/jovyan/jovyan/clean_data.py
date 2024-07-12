@@ -174,8 +174,6 @@ def main():
                 logging.info(f'Found {len(parquet_files)} new Parquet files.')
                 df = parse_parquet_directory(PARQUET_DIRECTORY)
                 df = transform(df)
-                if 0 in df.columns:
-                    df = df.drop([0], axis=1)
 
                 formatted_date = dt.datetime.now().strftime('%Y%m%d%H%M%S')
                 df.to_parquet(f'data/rail_data_cleaned_{formatted_date}.parquet', index=None)
