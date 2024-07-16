@@ -41,17 +41,28 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 **2. EDA Phases:**
 - **Data Cleaning:** Ensured consistency and accuracy for analysis.
 - **Data Merging:** Merged the Station Rail Name Reference Table with the API data.
-- **Data Analysis:** Explored train delays, station busyness, and travel patterns. Focused on identifying the top 10 most frequently visited stations and the busiest times at certain stations.
+- **Data Analysis:** Explored train delays, station busyness, and travel patterns.
 
 **3. Insights and Visualizations:**
+
+###Audience
+
+#### Rail Passengers
+
+Our analysis focuses on the following groups of rail passengers:
+
+- **Daily Commuters:** Individuals who use the railway system regularly for their daily commute to and from work.
+- **Weekend Travelers:** Passengers who utilize the railway system for weekend trips and leisure travel.
+- **Tourists:** Visitors exploring the UK, relying on the railway system for convenient and efficient travel between tourist destinations.
+- **Business Travelers:** Professionals who travel for work-related purposes, requiring reliable and timely transportation.
+
+#### Why do they care?
+
+Public transit can enable easy, affordable, and sustainable travel. Understanding the accessibility, convenience, and reliability of the UK Railway System is crucial for these groups to plan their journeys efficiently and make informed travel decisions.
+
 - **Accessibility:** Analyzed the distribution of train stations in relation to population density.
   
-  ![image](https://github.com/user-attachments/assets/ecbc86b4-ffc8-4aa0-abd4-745e24d084e8)
-Bubble colors indicate station counts based on statistical distribution:
-- Light Blue (0-26): Lowest range, below the 25th percentile.
-- Yellow (26-80): Between the 25th and 50th percentiles.
-- Pink (80-198): Between the 50th and 75th percentiles.
-- Purple (198-4000): Highest range, above the 75th percentile.
+![image](https://github.com/user-attachments/assets/ae796464-c091-451c-b603-33147f6ac55d)
 
 - **Convenience:** Examined train schedules to determine availability at different times.
   
