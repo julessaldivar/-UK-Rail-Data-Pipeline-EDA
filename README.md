@@ -45,11 +45,21 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 
 **3. Insights and Visualizations:**
 - **Accessibility:** Analyzed the distribution of train stations in relation to population density.
+  
   ![image](https://github.com/user-attachments/assets/ecbc86b4-ffc8-4aa0-abd4-745e24d084e8)
-  ![image](https://github.com/user-attachments/assets/c7ad27ba-7ba2-41c3-ad29-1d754f757b83)
+Bubble colors indicate station counts based on statistical distribution:
+- Light Blue (0-26): Lowest range, below the 25th percentile.
+- Yellow (26-80): Between the 25th and 50th percentiles.
+- Pink (80-198): Between the 50th and 75th percentiles.
+- Purple (198-4000): Highest range, above the 75th percentile.
 
 - **Convenience:** Examined train schedules to determine availability at different times.
+  
+![image](https://github.com/user-attachments/assets/62287804-d11e-4767-9d20-9fa0892b1d15)
+
 - **Reliability:** Investigated train delays and evaluated overall reliability.
+
+![image](https://github.com/user-attachments/assets/1da224d2-429c-4a6d-ae8e-9292426ea227)
 
 ### Analysis of Findings: Accessibility, Convenience, and Reliability of the UK Railway System
 
@@ -65,16 +75,16 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 #### Convenience
 
 **2. Train Schedules:**
-- Majority of trains operate between 1:00 PM and 9:00 PM, ensuring convenience for daytime travelers.
-- Lack of trains running between 1:30 AM and 4:30 AM, which might inconvenience late-night travelers.
-- Weekday train availability is high; additional analysis on weekend schedules would provide more insights.
+- Majority of trains operate between 6:00 AM and 9:00 PM, ensuring convenience for daytime travelers.
+- Lack of trains running between 1:00 AM and 4:30 AM, which might inconvenience late-night travelers.
+- Weekday train availability is high, with similar availability on weekends, except for a dip in early morning services on Sundays.
 
 **Conclusion:** The UK railway system is convenient for most daytime travelers but less so for late-night travel.
 
 #### Reliability
 
 **3. Delays and Punctuality:**
-- 13.32% of all trains are delayed, with 75% of delays exceeding 5.5 minutes.
+- 13.32% of all trains are delayed, with 75% of delays exceeding 11 minutes.
 - Trains scheduled to arrive earlier than 5:00 AM are 25% more likely to be delayed.
 - Despite more evening trains, delays do not increase proportionally, indicating consistent reliability issues.
 
