@@ -97,9 +97,9 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 **3. Delays and Punctuality:**
 - 13.32% of all trains are delayed, with 75% of delays exceeding 11 minutes.
 - Trains scheduled to arrive earlier than 5:00 AM are 25% more likely to be delayed.
-- Despite more evening trains, delays do not increase proportionally, indicating consistent reliability issues.
+- Despite more evening trains, delays do not increase proportionally, indicating less reliability issues durring evening rush hour.
 
-**Conclusion:** The UK railway system struggles with reliability due to significant delays.
+**Conclusion:** The UK railway system struggles with reliability due to frequent and significant delays.
 
 ### Summary of Findings
 
