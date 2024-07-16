@@ -9,6 +9,21 @@
 Active Project Dates: 7/3/24 - 7/17/24 
 ![image](https://github.com/user-attachments/assets/6bdd30e2-71a0-4540-9d6d-d5fc67f64449)
 
+### Audience
+
+#### Rail Passengers
+
+Our analysis focuses on the following groups of rail passengers:
+
+- **Daily Commuters:** Individuals who use the railway system regularly for their daily commute to and from work.
+- **Weekend Travelers:** Passengers who utilize the railway system for weekend trips and leisure travel.
+- **Tourists:** Visitors exploring the UK, relying on the railway system for convenient and efficient travel between tourist destinations.
+- **Business Travelers:** Professionals who travel for work-related purposes, requiring reliable and timely transportation.
+
+#### Why do they care?
+
+Public transit can enable easy, affordable, and sustainable travel. Understanding the accessibility, convenience, and reliability of the UK Railway System is crucial for these groups to plan their journeys efficiently and make informed travel decisions.
+
 ### How We Got Our Data
 
 #### Overview
@@ -44,21 +59,6 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 - **Data Analysis:** Explored train delays, station busyness, and travel patterns.
 
 **3. Insights and Visualizations:**
-
-###Audience
-
-#### Rail Passengers
-
-Our analysis focuses on the following groups of rail passengers:
-
-- **Daily Commuters:** Individuals who use the railway system regularly for their daily commute to and from work.
-- **Weekend Travelers:** Passengers who utilize the railway system for weekend trips and leisure travel.
-- **Tourists:** Visitors exploring the UK, relying on the railway system for convenient and efficient travel between tourist destinations.
-- **Business Travelers:** Professionals who travel for work-related purposes, requiring reliable and timely transportation.
-
-#### Why do they care?
-
-Public transit can enable easy, affordable, and sustainable travel. Understanding the accessibility, convenience, and reliability of the UK Railway System is crucial for these groups to plan their journeys efficiently and make informed travel decisions.
 
 - **Accessibility:** Analyzed the distribution of train stations in relation to population density.
   
