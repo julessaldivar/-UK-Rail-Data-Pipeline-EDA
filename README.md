@@ -7,7 +7,7 @@
 **Institution**: Grand Circus Bootcamp
 
 Active Project Dates: 7/3/24 - 7/17/24 
-![image](https://github.com/user-attachments/assets/6bdd30e2-71a0-4540-9d6d-d5fc67f64449)
+![image](https://github.com/user-attachments/assets/67e1e170-d7ae-4f19-8645-ddcbf16e8911)
 
 ### Audience
 
