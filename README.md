@@ -86,8 +86,8 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 #### Convenience
 
 **2. Train Schedules:**
-- Majority of trains operate between 6:00 AM and 9:00 PM, ensuring convenience for daytime travelers.
-- Lack of trains running between 1:00 AM and 4:30 AM, which might inconvenience late-night travelers.
+- Majority of trains operate between 6:30 AM and 10:00 PM, ensuring convenience for daytime travelers.
+- Lack of trains running between 1:00 AM and 5:00 AM, which might inconvenience late-night travelers.
 - Weekday train availability is high, with similar availability on weekends, except for a dip in early morning services on Sundays.
 
 **Conclusion:** The UK railway system is convenient for most daytime travelers but less so for late-night travel.
@@ -117,9 +117,6 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 
 **3. Compare Alternative Travel Options:**
 - Comparing with other forms of transportation (e.g., car, air, bus) could help travelers make more informed decisions.
-
-**4. Address Reliability Issues:**
-- Implementing measures to reduce delays and improve punctuality should be a priority to enhance reliability.
 
 By addressing these areas, the UK railway system can improve its accessibility, convenience, and reliability, ultimately providing a better travel experience for all users.
 
