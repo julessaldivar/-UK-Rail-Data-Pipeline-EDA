@@ -78,7 +78,7 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 
 **1. Distribution of Train Stations:**
 - High density of train stations in densely populated areas like London, Birmingham, Manchester, and Glasgow.
-- 19 out of the top 20 stations are located in London.
+- 19 out of the top 20 stations are located in London or the Greater London area.
 - Stations are predominantly located in metropolitan areas, making the system highly accessible.
 
 **Conclusion:** The UK railway system is accessible, especially in metropolitan areas where stations are numerous.
@@ -95,8 +95,8 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 #### Reliability
 
 **3. Delays and Punctuality:**
-- 13.32% of all trains are delayed, with 75% of delays exceeding 11 minutes.
-- Trains scheduled to arrive earlier than 5:00 AM are 25% more likely to be delayed.
+- 13.11% of all trains are delayed, with 75% of delays exceeding 11 minutes.
+- Trains scheduled to arrive between 12AM and 3:30AM are 29% more likely to be delayed.
 - Despite more evening trains, delays do not increase proportionally, indicating less reliability issues durring evening rush hour.
 
 **Conclusion:** The UK railway system struggles with reliability due to frequent and significant delays.
