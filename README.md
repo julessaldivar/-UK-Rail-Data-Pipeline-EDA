@@ -62,15 +62,15 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 
 - **Accessibility:** Analyzed the distribution of train stations in relation to population density.
   
-![image](https://github.com/user-attachments/assets/ae796464-c091-451c-b603-33147f6ac55d)
+  ![image](https://github.com/user-attachments/assets/146c9564-0d99-4eff-af52-658fe76e765d)
 
 - **Convenience:** Examined train schedules to determine availability at different times.
-  
-![image](https://github.com/user-attachments/assets/62287804-d11e-4767-9d20-9fa0892b1d15)
+
+  ![image](https://github.com/user-attachments/assets/e6d37b05-9334-4cd0-9eef-ce2b68e85fd8)
 
 - **Reliability:** Investigated train delays and evaluated overall reliability.
 
-![image](https://github.com/user-attachments/assets/1da224d2-429c-4a6d-ae8e-9292426ea227)
+  ![image](https://github.com/user-attachments/assets/3a7d6ebc-4b0d-4dc6-a618-f5e56b44e539)
 
 ### Analysis of Findings: Accessibility, Convenience, and Reliability of the UK Railway System
 
