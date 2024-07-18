@@ -118,8 +118,6 @@ As part of the Data Analytics & Engineering with Python course, our group projec
 **3. Compare Alternative Travel Options:**
 - Comparing with other forms of transportation (e.g., car, air, bus) could help travelers make more informed decisions.
 
-By addressing these areas, the UK railway system can improve its accessibility, convenience, and reliability, ultimately providing a better travel experience for all users.
-
 ## For More Information
 
 For any additional questions, please contact Jules Saldivar at <julessaldivar@gmail.com>, or on [LinkedIn](https://www.linkedin.com/in/jules-saldivar/) or Audrey Warner at <audrey.warner1@outlook.com>, or on [LinkedIn](https://www.linkedin.com/in/audrey-warner-data1/).
